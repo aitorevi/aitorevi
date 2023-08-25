@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ✉️ You can contact me at aitorevi@proton.me.
-- You can see my curriculum [here](https://).
+- 📄 You can see my curriculum [here](/CV_Aitor_Reviriego_Amor.pdf).
+- 📝 You can see my cover letter [here](/Carta_de_presentacion_Aitor_Reviriego_Amor.pdf).
