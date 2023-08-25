@@ -1,7 +1,6 @@
-### Hi there 👋, I´m Aitor Reviriego Amor
+## Hi there 👋, I´m Aitor Reviriego Amor
 
-Hi 👋, I'm a Front-end Web Developer, with experience in React and NextJs stack. I like to keep up to date and update my knowledge constantly, try new technologies and follow the path to become a Full-Stack Web Developer.
-
+I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I like to keep up to date and update my knowledge constantly, try new technologies and follow the path to become a Full-Stack Web Developer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I am currently learning at Platzi, "JavaScript path in depth".
@@ -10,6 +9,32 @@ Hi 👋, I'm a Front-end Web Developer, with experience in React and NextJs stac
 - 📄 You can see my curriculum [👉 here](/docs/CV_Aitor_Reviriego_Amor.pdf).
 - 📝 You can see my cover letter [👉 here](/docs/Carta_de_presentacion_Aitor_Reviriego_Amor.pdf).
 
+## Soft Skills
+
+-
+-
+-
+-
+-
+
+## Skills
+
+-
+-
+-
+-
+-
+-
+
+## Socials
+
+- Linkedin
+- GitHub
+
+## Notes
+
+- HackMd
+- Blog
 
 **Support me**
 <button>
