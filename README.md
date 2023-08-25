@@ -41,6 +41,7 @@ I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I 
 
 ## Notes
 
+- 📰 Medium [👉 here](https://medium.com/@aitorevi).
 - 📝✨ HackMd [👉 here](https://hackmd.io/@CkTa-WbeTiCXupfh7N0zjg).
 - 📚📝 Blog [👉 here](https://aitorevi.synology.me/wordpress/).
 
