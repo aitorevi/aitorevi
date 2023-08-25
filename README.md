@@ -2,7 +2,6 @@
 
 I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I like to keep up to date and update my knowledge constantly, try new technologies and follow the path to become a Full-Stack Web Developer.
 
-- 🔭 I’m currently working on ...
 - 🌱 I am currently learning at Platzi, "JavaScript path in depth".
 - 🚧 See my project under construction [👉 here](https://you-pod-2-0.vercel.app/).
 - ✉️ You can contact me at aitorevi@proton.me.
@@ -11,30 +10,39 @@ I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I 
 
 ## Soft Skills
 
--
--
--
--
--
+- 💬 Effective communication.
+- 🧩 Problem resolution.
+- 🧠 Emotional intelligence.
+- ⏰ Time management.
+- 🤝 Teamwork.
 
 ## Skills
 
--
--
--
--
--
--
+- 📜 JavaScript.
+- 🔵 TypeScript.
+- ⚛️ React.
+- ➡️⚛️ NextJs.
+- 🃏 Jest.
+- ☕ Java
+- 🔬 JUnit.
+- 🌐 Html 5.
+- 🎨 Css 3.
+- 🔥 Firebase.
+- 🧙‍♂️ Zod.
+- 🧪 TDD.
+- 👨‍👩‍👦 Pair Programming.
+- 👨‍👩‍👦‍👦 Mob Programming.
+- 💡 IntelliJ idea.
 
 ## Socials
 
-- Linkedin
-- GitHub
+- 🔗 Linkedin [👉 here](https://es.linkedin.com/in/aitor-reviriego-amor).
+- 🐙 GitHub [👉 here](https://github.com/aitorevi).
 
 ## Notes
 
-- HackMd
-- Blog
+- 📝✨ HackMd [👉 here](https://hackmd.io/@CkTa-WbeTiCXupfh7N0zjg).
+- 📚📝 Blog [👉 here](https://aitorevi.synology.me/wordpress/).
 
 **Support me**
 <button>
