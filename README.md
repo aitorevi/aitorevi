@@ -4,7 +4,7 @@ I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I 
 
 - 🌱 I am currently learning at Platzi, "JavaScript path in depth".
 - 🚧 See my project under construction [👉 here](https://you-pod-2-0.vercel.app/).
-- ✉️ You can contact me at aitorevi@proton.me.
+- ✉️ You can contact me at info@aitorevi.dev.
 - 📄 You can see my curriculum [👉 here](/docs/CV_Aitor_Reviriego_Amor.pdf).
 - 📝 You can see my cover letter [👉 here](/docs/Carta_de_presentacion_Aitor_Reviriego_Amor.pdf).
 
