@@ -22,8 +22,9 @@ I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I 
 - 🔵 TypeScript.
 - ⚛️ React.
 - ➡️⚛️ Next.
-- 🃏 Jest.
-- ☕ Java
+- 🃏 Vitest.
+- 📚 Storybook.
+- ☕ Java.
 - 🔬 JUnit.
 - 🌐 Html 5.
 - 🎨 Css 3.
@@ -41,9 +42,9 @@ I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I 
 
 ## Notes
 
+- 📚📝 Blog [👉 here](https://linktr.ee/aitorevi.dev_lean_mind_blog).
 - 📰 Medium [👉 here](https://medium.com/@aitorevi).
 - 📝✨ HackMd [👉 here](https://hackmd.io/@CkTa-WbeTiCXupfh7N0zjg).
-- 📚📝 Blog [👉 here](https://aitorevi.dev/).
 
 **Support me**
 <button>
