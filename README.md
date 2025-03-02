@@ -21,13 +21,19 @@ I'm a **Front-end Web Developer**, with experience in React and NextJs stack. I 
 - 📜 JavaScript.
 - 🔵 TypeScript.
 - ⚛️ React.
-- ➡️⚛️ Next.
-- 🃏 Vitest.
-- 📚 Storybook.
-- ☕ Java.
-- 🔬 JUnit.
-- 🌐 Html 5.
-- 🎨 Css 3.
+- ➡️⚛️ NextJs.
+- 🃏 Vitest
+- 🧪 Testing Library
+- 🤖 GitHub Copilot
+- 🚀 GitHub Actions
+- 📚 Storybook
+- ☕ Java
+- 🔬 JUnit
+- 🌐 HTML 5
+- 🎨 CSS 3
+- ☁️ Google Cloud Platform
+- 🐳 Docker
+- 🎛️ Strapi
 - 🔥 Firebase.
 - 🧙‍♂️ Zod.
 - 🧪 TDD.
